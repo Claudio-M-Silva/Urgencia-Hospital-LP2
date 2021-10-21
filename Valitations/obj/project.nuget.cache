@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tKvv6M02fZBgrRGYCIEdqn439dsZRRQxXTOiZEvBzvNa0/7EgYaOWdxf+JKGUULYy1NUKIL9Kk5y1fqsTkyHQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\claud\\Documents\\GitHub\\Urgencia-Hospital-LP2\\Valitations\\Valitations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\claud\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

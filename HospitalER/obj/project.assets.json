@@ -100,19 +100,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ricar\\.nuget\\packages\\": {}
+    "C:\\Users\\claud\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ricar\\Source\\Repos\\18827_18843_LP2\\HospitalER\\HospitalER.csproj",
+      "projectUniqueName": "C:\\Users\\claud\\Documents\\GitHub\\Urgencia-Hospital-LP2\\HospitalER\\HospitalER.csproj",
       "projectName": "HospitalER",
-      "projectPath": "C:\\Users\\ricar\\Source\\Repos\\18827_18843_LP2\\HospitalER\\HospitalER.csproj",
-      "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ricar\\Source\\Repos\\18827_18843_LP2\\HospitalER\\obj\\",
+      "projectPath": "C:\\Users\\claud\\Documents\\GitHub\\Urgencia-Hospital-LP2\\HospitalER\\HospitalER.csproj",
+      "packagesPath": "C:\\Users\\claud\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\claud\\Documents\\GitHub\\Urgencia-Hospital-LP2\\HospitalER\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\claud\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -124,18 +124,19 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\ricar\\Source\\Repos\\18827_18843_LP2\\Exceptions\\Exceptions.csproj": {
-              "projectPath": "C:\\Users\\ricar\\Source\\Repos\\18827_18843_LP2\\Exceptions\\Exceptions.csproj"
+            "C:\\Users\\claud\\Documents\\GitHub\\Urgencia-Hospital-LP2\\Exceptions\\Exceptions.csproj": {
+              "projectPath": "C:\\Users\\claud\\Documents\\GitHub\\Urgencia-Hospital-LP2\\Exceptions\\Exceptions.csproj"
             },
-            "C:\\Users\\ricar\\Source\\Repos\\18827_18843_LP2\\HospitalBO\\HospitalBO.csproj": {
-              "projectPath": "C:\\Users\\ricar\\Source\\Repos\\18827_18843_LP2\\HospitalBO\\HospitalBO.csproj"
+            "C:\\Users\\claud\\Documents\\GitHub\\Urgencia-Hospital-LP2\\HospitalBO\\HospitalBO.csproj": {
+              "projectPath": "C:\\Users\\claud\\Documents\\GitHub\\Urgencia-Hospital-LP2\\HospitalBO\\HospitalBO.csproj"
             },
-            "C:\\Users\\ricar\\Source\\Repos\\18827_18843_LP2\\HospitalRN\\HospitalRN.csproj": {
-              "projectPath": "C:\\Users\\ricar\\Source\\Repos\\18827_18843_LP2\\HospitalRN\\HospitalRN.csproj"
+            "C:\\Users\\claud\\Documents\\GitHub\\Urgencia-Hospital-LP2\\HospitalRN\\HospitalRN.csproj": {
+              "projectPath": "C:\\Users\\claud\\Documents\\GitHub\\Urgencia-Hospital-LP2\\HospitalRN\\HospitalRN.csproj"
             },
-            "C:\\Users\\ricar\\Source\\Repos\\18827_18843_LP2\\Valitations\\Valitations.csproj": {
-              "projectPath": "C:\\Users\\ricar\\Source\\Repos\\18827_18843_LP2\\Valitations\\Valitations.csproj"
+            "C:\\Users\\claud\\Documents\\GitHub\\Urgencia-Hospital-LP2\\Valitations\\Valitations.csproj": {
+              "projectPath": "C:\\Users\\claud\\Documents\\GitHub\\Urgencia-Hospital-LP2\\Valitations\\Valitations.csproj"
             }
           }
         }
@@ -148,6 +149,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -158,18 +160,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

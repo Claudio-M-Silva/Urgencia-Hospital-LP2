@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "71Ee57dP9KJUMjULHrReFYlizQ/cntIyQVz9j09mX2GiRqeg+0TMUnbjouPP4K9PJ5py6PkDXuc/FLrxEodRUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\claud\\Documents\\GitHub\\Urgencia-Hospital-LP2\\DataLayer\\DataLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\claud\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
